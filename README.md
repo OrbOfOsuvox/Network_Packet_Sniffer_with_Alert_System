@@ -44,13 +44,13 @@ git clone https://github.com/yourusername/network-sniffer-alert-system.git
 cd network-sniffer-alert-system
 ```
 
-2. Install Dependencies
+### 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Setup .env for Email Alerts
+### 3. Setup .env for Email Alerts
 
 ```bash
 EMAIL_SENDER=youremail@example.com
@@ -61,7 +61,7 @@ SMTP_PORT=587
 ```
 ⚠️ Use App Passwords for Gmail or provider-specific SMTP.
 
-4. Run the App
+### 4. Run the App
 
 ```bash
 python main.py
