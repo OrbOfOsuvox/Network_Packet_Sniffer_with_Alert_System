@@ -2,7 +2,8 @@
 
 A powerful Python-based packet sniffing tool with live traffic analysis, anomaly detection (port scans, flooding), credential sniffing, DNS logging, and an intuitive GUI built using Tkinter and ttkbootstrap.
 
-![GUI Screenshot](screenshot.png) <!-- Optional: Add a GUI image -->
+![Screenshot 2025-06-27 155909](https://github.com/user-attachments/assets/0c54e133-7172-48e2-9020-5397d48cee46)
+
 
 ---
 
